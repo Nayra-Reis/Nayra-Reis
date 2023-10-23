@@ -6,11 +6,7 @@
     <p>Amo aprender e também auxiliar outras pessoas com o meu conhecimento. Espero um dia também poder mudar a vida de outras pessoas através da tecnologia. 
     </p>
 </div>
-<div>
-    <h2>Conecte-se comigo</h2>
-   <a href="https://www.linkedin.com/in/nayrareis/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href = "mailto:nayra.a.reis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+
 <br>
 
 <div style="display: inline_block"><br>
@@ -36,17 +32,9 @@
 ## Minhas Contribuições
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=83Rafa&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](thhps://github.com/83Rafa/dio-lab-open-source)
 
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+<div>
+    <h2>Conecte-se comigo</h2>
+   <a href="https://www.linkedin.com/in/nayrareis/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href = "mailto:nayra.a.reis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+

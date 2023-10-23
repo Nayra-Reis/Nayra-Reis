@@ -6,7 +6,6 @@
     <p>Amo aprender e também auxiliar outras pessoas com o meu conhecimento. Espero um dia também poder mudar a vida de outras pessoas através da tecnologia. 
     </p>
 </div>
-
 <div style="display: inline_block"><br>
     <h2>Tecnologias</h2>
   <img align="center" alt="Nay-Java" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
